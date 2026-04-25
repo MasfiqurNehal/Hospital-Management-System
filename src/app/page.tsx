@@ -231,13 +231,6 @@ export default function RootPage() {
 
         <section id="contact" className="border-y border-border bg-card py-16">
           <div className="mx-auto grid max-w-7xl gap-8 px-4 sm:px-6 lg:grid-cols-[1fr_0.9fr] lg:px-8">
-            <div>
-              <div className="text-sm font-bold uppercase tracking-widest text-primary">Developer Credit</div>
-              <h2 className="mt-3 text-3xl font-black tracking-tight sm:text-4xl">Developed by Md. Masfiqur Rahman Nehal.</h2>
-              <p className="mt-4 max-w-2xl leading-7 text-muted-foreground">
-                Main contributor and full system developer for this Hospital Management and Alert System frontend.
-              </p>
-            </div>
             <div className="grid gap-3 text-sm">
               <div className="flex items-center gap-3 rounded-xl bg-secondary/60 p-4">
                 <Phone className="h-5 w-5 shrink-0 text-primary" /> Add hospital support phone from backend settings
